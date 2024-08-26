@@ -1,0 +1,14 @@
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Sesion2.exe
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Sesion2.deps.json
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Sesion2.runtimeconfig.json
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Sesion2.dll
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Sesion2.pdb
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.AssemblyInfoInputs.cache
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.AssemblyInfo.cs
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.dll
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Sesion2.dll
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.pdb
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Sesion2.genruntimeconfig.cache
+C:\Users\labc205\Documents\Sesion 2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Sesion2.dll
