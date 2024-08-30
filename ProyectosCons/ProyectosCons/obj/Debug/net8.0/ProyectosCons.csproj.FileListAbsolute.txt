@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.AssemblyInfo.cs
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.sourcelink.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\bin\Debug\net8.0\ProyectosCons.exe
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\bin\Debug\net8.0\ProyectosCons.deps.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\bin\Debug\net8.0\ProyectosCons.runtimeconfig.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\bin\Debug\net8.0\ProyectosCons.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\bin\Debug\net8.0\ProyectosCons.pdb
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\refint\ProyectosCons.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.pdb
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ProyectosCons.genruntimeconfig.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\ProyectosCons\obj\Debug\net8.0\ref\ProyectosCons.dll
