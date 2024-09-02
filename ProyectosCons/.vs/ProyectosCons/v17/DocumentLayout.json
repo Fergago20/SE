@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}|DatosPers\\DatosPers.csproj|c:\\users\\dell\\documents\\sesion2\\proyectoscons\\datospers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}|DatosPers\\DatosPers.csproj|solutionrelative:datospers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}|DatosPers\\DatosPers.csproj|c:\\users\\dell\\documents\\sesion2\\proyectoscons\\datospers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}|DatosPers\\DatosPers.csproj|solutionrelative:datospers\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}|ProyectosCons\\ProyectosCons.csproj|c:\\users\\dell\\documents\\sesion2\\proyectoscons\\proyectoscons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}|ProyectosCons\\ProyectosCons.csproj|solutionrelative:proyectoscons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769C81DA-4562-4879-8ACC-5287F74A7534}|Byte\\Byte.csproj|c:\\users\\dell\\documents\\sesion2\\proyectoscons\\byte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769C81DA-4562-4879-8ACC-5287F74A7534}|Byte\\Byte.csproj|solutionrelative:byte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}|ProyectosCons\\ProyectosCons.csproj|c:\\users\\dell\\documents\\sesion2\\proyectoscons\\proyectoscons\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}|ProyectosCons\\ProyectosCons.csproj|solutionrelative:proyectoscons\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\DatosPers\\Class1.cs",
+              "RelativeDocumentMoniker": "DatosPers\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\DatosPers\\Class1.cs",
+              "RelativeToolTip": "DatosPers\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:54:31.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\DatosPers\\Program.cs",
+              "RelativeDocumentMoniker": "DatosPers\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\DatosPers\\Program.cs",
+              "RelativeToolTip": "DatosPers\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:54:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\Byte\\Program.cs",
+              "RelativeDocumentMoniker": "Byte\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\Byte\\Program.cs",
+              "RelativeToolTip": "Byte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:34:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\ProyectosCons\\Class1.cs",
+              "RelativeDocumentMoniker": "ProyectosCons\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\ProyectosCons\\Class1.cs",
+              "RelativeToolTip": "ProyectosCons\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:39:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\ProyectosCons\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectosCons\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\sesion2\\ProyectosCons\\ProyectosCons\\Program.cs",
+              "RelativeToolTip": "ProyectosCons\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:34:55.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

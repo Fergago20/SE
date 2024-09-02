@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\bin\Debug\net8.0\Byte.exe
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\bin\Debug\net8.0\Byte.deps.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\bin\Debug\net8.0\Byte.runtimeconfig.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\bin\Debug\net8.0\Byte.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\bin\Debug\net8.0\Byte.pdb
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.AssemblyInfo.cs
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.sourcelink.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\refint\Byte.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.pdb
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\Byte.genruntimeconfig.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\Byte\obj\Debug\net8.0\ref\Byte.dll

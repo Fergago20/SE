@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.AssemblyInfo.cs
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.sourcelink.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\bin\Debug\net8.0\DatosPers.exe
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\bin\Debug\net8.0\DatosPers.deps.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\bin\Debug\net8.0\DatosPers.runtimeconfig.json
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\bin\Debug\net8.0\DatosPers.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\bin\Debug\net8.0\DatosPers.pdb
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\refint\DatosPers.dll
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.pdb
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\DatosPers.genruntimeconfig.cache
+C:\Users\Dell\Documents\sesion2\ProyectosCons\DatosPers\obj\Debug\net8.0\ref\DatosPers.dll

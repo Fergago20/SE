@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectosCons", "ProyectosCons\ProyectosCons.csproj", "{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Byte", "Byte\Byte.csproj", "{769C81DA-4562-4879-8ACC-5287F74A7534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatosPers", "DatosPers\DatosPers.csproj", "{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE51636-A6DA-4CB4-9720-3C35D794EFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769C81DA-4562-4879-8ACC-5287F74A7534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769C81DA-4562-4879-8ACC-5287F74A7534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769C81DA-4562-4879-8ACC-5287F74A7534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769C81DA-4562-4879-8ACC-5287F74A7534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87036F7-E0C3-4E6D-A957-8FEFFFD3B1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10292F4E-0987-4B0E-9DBA-8565135CCF09}
+	EndGlobalSection
+EndGlobal
