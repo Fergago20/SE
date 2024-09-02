@@ -1,0 +1,15 @@
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\bin\Debug\net8.0\UseIf.exe
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\bin\Debug\net8.0\UseIf.deps.json
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\bin\Debug\net8.0\UseIf.runtimeconfig.json
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\bin\Debug\net8.0\UseIf.dll
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\bin\Debug\net8.0\UseIf.pdb
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.AssemblyInfoInputs.cache
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.AssemblyInfo.cs
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.sourcelink.json
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.dll
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\refint\UseIf.dll
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.pdb
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\UseIf.genruntimeconfig.cache
+C:\Users\labc205\Documents\Sesion 2\UseIf\UseIf\obj\Debug\net8.0\ref\UseIf.dll
